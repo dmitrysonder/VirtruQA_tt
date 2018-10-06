@@ -1,0 +1,30 @@
+{
+  "name": "virtuqa_tt",
+  "version": "1.0.0",
+  "description": "Technical task for Virtru on \"QA Test Engineer\" position.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "chromedriver": "^2.42.0",
+    "geckodriver": "^1.12.2",
+    "mocha": "^5.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrysonder/VirtruQA_tt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dmitrysonder/VirtruQA_tt/issues"
+  },
+  "homepage": "https://github.com/dmitrysonder/VirtruQA_tt#readme"
+}
